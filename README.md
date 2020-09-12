@@ -1,4 +1,4 @@
-**Hi there** 👋
+## Hi there 👋
 Call me Jay.
 
 I'm a freelance software engineer at [Very Good Ventures](https://verygood.ventures/) from Rotterdam, the Netherlands. 🇳🇱🧀
