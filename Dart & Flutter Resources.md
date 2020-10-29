@@ -3,6 +3,7 @@
 ## Dart
 - [Language tour](https://dart.dev/guides/language/language-tour)
 - [Effective Dart](https://dart.dev/guides/language/effective-dart/style)
+- [Learn Dart in a Week](https://hackernoon.com/learn-dart-in-a-week-with-these-free-resources-b892e5265220)
 
 ## Widgets
 - [Codelabs/Assignments/Practice](https://flutter.dev/docs/codelabs)
