@@ -1,7 +1,7 @@
 ## Hi there 👋
 Call me Jay.
 
-I'm a freelance software engineer at [Very Good Ventures](https://verygood.ventures/) from Rotterdam, the Netherlands. 🇳🇱🧀
+I'm a senior engineer at [Very Good Ventures](https://verygood.ventures/) from Rotterdam, the Netherlands. 🇳🇱🧀
 
 - 🌍 I'm a Google Developer Expert for [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 - 💙 I'm a member of the [@fluttercommunity](https://github.com/fluttercommunity/community) Team
