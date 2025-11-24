@@ -3,11 +3,11 @@ Call me Jay.
 
 I'm a freelance Flutter & Rust engineer from Rotterdam, the Netherlands. 🇳🇱🧀
 
-- 🌍 I'm a Google Developer Expert for [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
-- 🦀 I've fallen in love with Rust for over a year
+- 🌍 I'm an ex-Google Developer Expert for [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
+- 🦀 I've fallen in love with Rust since 2021
 - 💙 I'm a member of the [@fluttercommunity](https://github.com/fluttercommunity/community) Team
 - 🗣 I do [talks on various topics](https://github.com/jeroen-meijer/talks)
-- 💬 Ask me about building Flutter, Dart or Rust apps or joining our team
+- 💬 Ask me about building Flutter, Dart or Rust apps
 - 🎶 I produce and DJ [all kinds of music](https://www.instagram.com/flintandfigure/)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like to watch people play horror games but am too wimpy to play them myself
